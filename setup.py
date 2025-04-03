@@ -22,7 +22,7 @@ setuptools.setup(
           'numpy >= 1.16',
           'Pillow >= 5.4.1',
           'scikit-image >= 0.15',
-          'opencv-python >= 3.4.5',
+          'opencv-contrib-python-headless >= 3.4.5',
           'scipy >= 1.2.1',
           'numba >= 0.53.0'
     ],
